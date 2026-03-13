@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "name": "Golden Penny Premium Spaghetti",
+        "price": 0.8,
+        "unit": "500g",
+        "category": "Household Cleaning",
+        "aisle": "A4",
+        "image": "/images/spag.PNG",
+        "stock": 145
+    },
+    {
+        "id": 2,
+        "name": "Fresh Tomatoes (Jos Strain)",
+        "price": 1.2,
+        "unit": "1 Basket",
+        "category": "Fresh Produce",
+        "aisle": "P1",
+        "image": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?q=80&w=500&auto=format&fit=crop",
+        "stock": 12
+    },
+    {
+        "id": 3,
+        "name": "Premium Beef Cuts (Boneless)",
+        "price": 3.5,
+        "unit": "1kg",
+        "category": "Meat & Poultry",
+        "aisle": "M2",
+        "image": "/images/beef.jpeg",
+        "stock": 4
+    },
+    {
+        "id": 4,
+        "name": "Chivita 100% Real Fruit Juice (Orange)",
+        "price": 1.5,
+        "unit": "1L",
+        "category": "Beverages",
+        "aisle": "B1",
+        "image": "/images/chi-vita.jpeg",
+        "stock": 50
+    },
+    {
+        "id": 5,
+        "name": "Dettol Antiseptic Liquid",
+        "price": 2.1,
+        "unit": "500ml",
+        "category": "Personal Care",
+        "aisle": "C3",
+        "image": "/images/dettol.jpeg",
+        "stock": 28
+    },
+    {
+        "id": 6,
+        "name": "Sunlight 2-in-1 Detergent Powder",
+        "price": 1.8,
+        "unit": "900g",
+        "category": "Household Cleaning",
+        "aisle": "C1",
+        "image": "/images/sunlight.jpeg",
+        "stock": 2
+    },
+    {
+        "id": 7,
+        "name": "Whole Chicken (Frozen)",
+        "price": 4.0,
+        "unit": "1.5kg",
+        "category": "Meat & Poultry",
+        "aisle": "M1",
+        "image": "/images/chicken.jpeg",
+        "stock": 18
+    },
+    {
+        "id": 8,
+        "name": "Fresh Red Onions",
+        "price": 0.9,
+        "unit": "1kg",
+        "category": "Fresh Produce",
+        "aisle": "P1",
+        "image": "/images/onion.jpeg",
+        "stock": 85
+    },
+    {
+        "id": 9,
+        "name": "Nestle Milo Energy Tin",
+        "price": 3.2,
+        "unit": "500g",
+        "category": "Beverages",
+        "aisle": "B2",
+        "image": "/images/milo.jpeg",
+        "stock": 0
+    },
+    {
+        "id": 10,
+        "name": "Peak Full Cream Milk Powder",
+        "price": 2.8,
+        "unit": "400g Refill",
+        "category": "Beverages",
+        "aisle": "B2",
+        "image": "/images/peak.jpeg",
+        "stock": 35
+    },
+    {
+        "id": 11,
+        "name": "Fresh Tubers of Yam (Abuja)",
+        "price": 2.5,
+        "unit": "1 Large Tuber",
+        "category": "Fresh Produce",
+        "aisle": "P2",
+        "image": "/images/yam.jpeg",
+        "stock": 8
+    },
+    {
+        "id": 12,
+        "name": "Ripe Plantain Bunch",
+        "price": 1.8,
+        "unit": "1 Bunch",
+        "category": "Fresh Produce",
+        "aisle": "P2",
+        "image": "/images/plantain.jpeg",
+        "stock": 25
+    },
+    {
+        "id": 13,
+        "name": "Fresh Goat Meat (Cut & Cleaned)",
+        "price": 4.5,
+        "unit": "1kg",
+        "category": "Meat & Poultry",
+        "aisle": "M2",
+        "image": "https://images.unsplash.com/photo-1558030006-450675393462?q=80&w=500&auto=format&fit=crop",
+        "stock": 3
+    },
+    {
+        "id": 14,
+        "name": "Fresh Croaker Fish",
+        "price": 3.8,
+        "unit": "1kg",
+        "category": "Meat & Poultry",
+        "aisle": "M3",
+        "image": "/images/frozen.jpeg",
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "name": "Hypo Toilet Cleaner",
+        "price": 1.1,
+        "unit": "750ml",
+        "category": "Household Cleaning",
+        "aisle": "C2",
+        "image": "/images/hypo.jpeg",
+        "stock": 42
+    },
+    {
+        "id": 16,
+        "name": "Ariel Matic Detergent",
+        "price": 4.2,
+        "unit": "2kg",
+        "category": "Household Cleaning",
+        "aisle": "C1",
+        "image": "/images/ariel.jpeg",
+        "stock": 1
+    },
+    {
+        "id": 17,
+        "name": "Dudu Osun Black Soap",
+        "price": 0.5,
+        "unit": "150g Bar",
+        "category": "Personal Care",
+        "aisle": "C4",
+        "image": "/images/dudu-osun.jpeg",
+        "stock": 120
+    },
+    {
+        "id": 18,
+        "name": "Necessaire Nourishing Lotion",
+        "price": 2.9,
+        "unit": "400ml",
+        "category": "Personal Care",
+        "aisle": "C4",
+        "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?q=80&w=500&auto=format&fit=crop",
+        "stock": 15
+    },
+    {
+        "id": 19,
+        "name": "Coke Classic Can",
+        "price": 0.4,
+        "unit": "33cl",
+        "category": "Beverages",
+        "aisle": "B3",
+        "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?q=80&w=500&auto=format&fit=crop",
+        "stock": 200
+    },
+    {
+        "id": 20,
+        "name": "Pepsodent Cavity Fighter",
+        "price": 0.7,
+        "unit": "140g",
+        "category": "Personal Care",
+        "aisle": "C5",
+        "image": "/images/pepsodent.jpeg",
+        "stock": 4
+    }
+]
