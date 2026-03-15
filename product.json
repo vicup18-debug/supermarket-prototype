@@ -6,7 +6,7 @@
         "unit": "500g",
         "category": "Household Cleaning",
         "aisle": "A4",
-        "image": "/images/spag.PNG",
+        "image": "/images/spag.png",
         "stock": 145
     },
     {
@@ -36,7 +36,7 @@
         "unit": "1L",
         "category": "Beverages",
         "aisle": "B1",
-        "image": "/images/chi-vita.jpeg",
+        "image": "/images/chi.jpeg",
         "stock": 50
     },
     {
